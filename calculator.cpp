@@ -32,6 +32,9 @@ int main(){
 			cout<<num1 / num2;
 			break;
 			
+			default :
+			cout<<"invalid operator";
+			break;
 	
 		return 0;
 	}
